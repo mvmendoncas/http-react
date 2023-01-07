@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "Camisa amarela",
+      "price": "19",
+      "id": 5
+    },
+    {
+      "name": "Blusa",
+      "price": "50",
+      "id": 6
+    },
+    {
+      "name": "mouse ",
+      "price": "60",
+      "id": 7
+    },
+    [],
+    [],
+    {
+      "name": "maquina",
+      "price": "852",
+      "id": 10
+    },
+    {
+      "name": "computador",
+      "price": "20000",
+      "id": 11
+    },
+    {
+      "name": "a",
+      "price": "0",
+      "id": 22
+    },
+    {
+      "name": "teste",
+      "price": "16",
+      "id": 23
+    }
+  ]
+}
